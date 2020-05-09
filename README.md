@@ -1,6 +1,6 @@
 # Secure-Voting-System
 
-# Instructions and Screenshots
+# Instructions
 
 Development Environment – Eclipse, Command Prompt (Test environment)
 
